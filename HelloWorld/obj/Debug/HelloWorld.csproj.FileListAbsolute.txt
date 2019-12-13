@@ -1,7 +1,0 @@
-D:\CsharpExample\HelloWorld\bin\Debug\HelloWorld.exe.config
-D:\CsharpExample\HelloWorld\bin\Debug\HelloWorld.exe
-D:\CsharpExample\HelloWorld\bin\Debug\HelloWorld.pdb
-D:\CsharpExample\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
-D:\CsharpExample\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-D:\CsharpExample\HelloWorld\obj\Debug\HelloWorld.exe
-D:\CsharpExample\HelloWorld\obj\Debug\HelloWorld.pdb
