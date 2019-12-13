@@ -1,0 +1,7 @@
+D:\CsharpExample\hello_world\bin\Debug\hello_world.exe.config
+D:\CsharpExample\hello_world\bin\Debug\hello_world.exe
+D:\CsharpExample\hello_world\bin\Debug\hello_world.pdb
+D:\CsharpExample\hello_world\obj\Debug\hello_world.csprojAssemblyReference.cache
+D:\CsharpExample\hello_world\obj\Debug\hello_world.csproj.CoreCompileInputs.cache
+D:\CsharpExample\hello_world\obj\Debug\hello_world.exe
+D:\CsharpExample\hello_world\obj\Debug\hello_world.pdb
