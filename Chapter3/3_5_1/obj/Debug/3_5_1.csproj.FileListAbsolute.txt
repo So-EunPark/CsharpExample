@@ -1,0 +1,6 @@
+D:\CsharpExample\Chapter3\3_5_1\bin\Debug\3_5_1.exe.config
+D:\CsharpExample\Chapter3\3_5_1\bin\Debug\3_5_1.exe
+D:\CsharpExample\Chapter3\3_5_1\bin\Debug\3_5_1.pdb
+D:\CsharpExample\Chapter3\3_5_1\obj\Debug\3_5_1.csproj.CoreCompileInputs.cache
+D:\CsharpExample\Chapter3\3_5_1\obj\Debug\3_5_1.exe
+D:\CsharpExample\Chapter3\3_5_1\obj\Debug\3_5_1.pdb

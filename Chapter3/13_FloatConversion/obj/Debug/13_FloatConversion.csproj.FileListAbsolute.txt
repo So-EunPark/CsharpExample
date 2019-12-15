@@ -1,0 +1,6 @@
+D:\CsharpExample\Chapter3\13_FloatConversion\bin\Debug\13_FloatConversion.exe.config
+D:\CsharpExample\Chapter3\13_FloatConversion\bin\Debug\13_FloatConversion.exe
+D:\CsharpExample\Chapter3\13_FloatConversion\bin\Debug\13_FloatConversion.pdb
+D:\CsharpExample\Chapter3\13_FloatConversion\obj\Debug\13_FloatConversion.csproj.CoreCompileInputs.cache
+D:\CsharpExample\Chapter3\13_FloatConversion\obj\Debug\13_FloatConversion.exe
+D:\CsharpExample\Chapter3\13_FloatConversion\obj\Debug\13_FloatConversion.pdb
