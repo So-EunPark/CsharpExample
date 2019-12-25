@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_10_선택적매개변수"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_11_로컬함수", "6_11_로컬함수\6_11_로컬함수.csproj", "{1DC59F75-B990-474B-B9A5-CD9C92103519}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_3_값에의한전달", "6_3_값에의한전달\6_3_값에의한전달.csproj", "{94E726AB-8388-496E-80CB-5F0F29365882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_4_참조에 의한 매개 변수 전달", "6_4_참조에 의한 매개 변수 전달\6_4_참조에 의한 매개 변수 전달.csproj", "{3D0ADA03-0B88-4B2D-9FA7-EE63B4829FC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{1DC59F75-B990-474B-B9A5-CD9C92103519}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DC59F75-B990-474B-B9A5-CD9C92103519}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DC59F75-B990-474B-B9A5-CD9C92103519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94E726AB-8388-496E-80CB-5F0F29365882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E726AB-8388-496E-80CB-5F0F29365882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E726AB-8388-496E-80CB-5F0F29365882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E726AB-8388-496E-80CB-5F0F29365882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0ADA03-0B88-4B2D-9FA7-EE63B4829FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0ADA03-0B88-4B2D-9FA7-EE63B4829FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0ADA03-0B88-4B2D-9FA7-EE63B4829FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0ADA03-0B88-4B2D-9FA7-EE63B4829FC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
